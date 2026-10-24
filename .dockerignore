@@ -1,0 +1,10 @@
+insurance_env/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.ipynb_checkpoints/
+*.ipynb
+.env
+.vscode/
+.idea/
